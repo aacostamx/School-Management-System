@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="studentDBModelStoreContainer" CdmEntityContainer="studentDBEntities">
+    <EntitySetMapping Name="StudentMasters">
+      <EntityTypeMapping TypeName="studentDBModel.StudentMasters">
+        <MappingFragment StoreEntitySet="StudentMasters">
+          <ScalarProperty Name="StdID" ColumnName="StdID" />
+          <ScalarProperty Name="StdName" ColumnName="StdName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="spConStudents" FunctionName="studentDBModel.Store.spConStudents">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="studentDBModel.spConStudents_Result">
+          <ScalarProperty Name="StdID" ColumnName="StdID" />
+          <ScalarProperty Name="StdName" ColumnName="StdName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spDelStudents" FunctionName="studentDBModel.Store.spDelStudents" />
+    <FunctionImportMapping FunctionImportName="spInsStudents" FunctionName="studentDBModel.Store.spInsStudents" />
+    <FunctionImportMapping FunctionImportName="spUPDStudents" FunctionName="studentDBModel.Store.spUPDStudents" />
+  </EntityContainerMapping>
+</Mapping>

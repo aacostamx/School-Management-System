@@ -1,0 +1,36 @@
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\School Management System.dll.config
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\School Management System.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\School Management System.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Antlr3.Runtime.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\EntityFramework.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\EntityFramework.SqlServer.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Newtonsoft.Json.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Net.Http.Formatting.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Helpers.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Http.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Http.WebHost.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Mvc.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Optimization.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Razor.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.WebPages.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.WebPages.Razor.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\WebGrease.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\EntityFramework.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\EntityFramework.SqlServer.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Helpers.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Mvc.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Optimization.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Razor.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.WebPages.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.WebPages.Razor.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Antlr3.Runtime.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Newtonsoft.Json.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Net.Http.Formatting.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Http.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\System.Web.Http.WebHost.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.pdb
